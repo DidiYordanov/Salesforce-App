@@ -1,0 +1,29 @@
+ons-row {
+  padding: 5px;
+}
+ons-col {
+  padding: 5px;
+}
+
+/* listPage.html */
+
+#list ons-col .record-name {
+  font-weight: bold;
+}
+#list ons-col .record-title {
+  font-size: 80%;
+}
+
+/* contact.html */
+
+#personal-name {
+  font-size: 120%;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h5 {
+  padding: 5px;
+  text-align: center;
+  background-color: #ccc;
+}
